@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: Arial;
+}
+
+nav {
+    position: fixed;
+}
+
+main {
+    position: relative;
+    top: 100px;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+}
+
+footer {
+    position: fixed;
+    top: 90vh;
+}
